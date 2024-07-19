@@ -13,7 +13,7 @@ It helps highlight all the gaps in the program.
 
 - OODA: Observe, Orient, Decide, Act is a greate framework to use
 
-![[ooda.png]]
+![OODA](./assets/ooda.png)
 
 ## Checklists
 
@@ -30,7 +30,7 @@ Train people on them and make sure they use them.
 
 ## Sample Playbook - Phishing
 
-![[phishing.png]]
+![Phishing](./assets/phishing.png)
 
 ## Order of Volatility  - Memory Collection
 
@@ -78,7 +78,7 @@ Checklists and RACI can be good for all of those roles.
 
 ## The Diamond Model
 
-![[diamond-model.webp]]
+![Diamond Model](./assets/diamond-model.webp)
 
 ## The MITRE att&ck framework
 
@@ -91,7 +91,7 @@ https://attack.mitre.org/
 
 ## Lockheed Martin Attack Kill Chain
 
-![[THE-CYBER-KILL-CHAIN-body.png.pc-adaptive.1280.medium.png]]
+![Cyber Attack Kill Chain](./assets/THE-CYBER-KILL-CHAIN-body.png.pc-adaptive.1280.medium.png)
 
 https://lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 
@@ -220,7 +220,7 @@ Consider two strategies: disconnect or watch and learn
 
 ## Decision Matrix 
 
-![[decisionmatrix.png]]
+![Decision Matrix](./assets/decisionmatrix.png)
 
 ## Network Isolation
 
@@ -248,7 +248,7 @@ Consider assigning the collection of evidence to one person
 
 ## Chain of custody
 
-![[chainofcustody.png]]
+![Chain of Custody](./assets/chainofcustody.png)
 
 - The collection of digital evidence is frequently attacked in legal proceedings
 - Ensuring digital evidence is collected in a forensically sound manner and documented

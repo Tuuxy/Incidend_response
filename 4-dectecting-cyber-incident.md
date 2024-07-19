@@ -133,7 +133,7 @@ Too many alerts and data sources cause:
 
 ## Alert Triage Process Example
 
-![[alerttriageprocess.png]]
+![Alert Triage Process](./assets/alerttriageprocess.png) 
 
 ## Multiple Incidents Triage
 
@@ -192,7 +192,7 @@ There is no defined rule but you need to make sure you are following the rules t
 
 Example FedRAMP: 
 
-![[fedramp.png]]
+![Fed RAMP](./assets/fedramp.png)
 ## Sample Detection Metrics
 
 (Remember your audience! Above the line vs. below the line)

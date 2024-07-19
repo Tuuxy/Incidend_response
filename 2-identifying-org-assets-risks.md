@@ -6,7 +6,7 @@ How much risk are we willing to take ?
 What is the risk vs benefits tradeoff that we are looking at ? 
 What is the appetite of risk within the organization ? 
 
-![[howmuchrisk.png]]
+![[How much risk](./assets/howmuchrisk.png)
 
 ### Enterprise Risk Management (ERM) 
 
@@ -26,7 +26,7 @@ What is the appetite of risk within the organization ?
 
 ## IT Risk Register Example
 
-![[itriskregister.png]]
+![It risk register](./assets/itriskregister.png)
 
 ## Risk Management Data Sources
 
@@ -82,7 +82,7 @@ But you want to make sure that these issues and risks are being elevated to exec
 
 ## Risk Assessments
 
-![[riskassessment.png]]
+![risk assessments](./assets/riskassessment.png)
 
 - If the organization has a risk assessment, CIRT should be familiar with the document and known threats/risks identified
 
@@ -92,9 +92,9 @@ But you want to make sure that these issues and risks are being elevated to exec
 
 ## Threat Intelligence Helps You Understand Something Fundamental
 
-![[threatlandscapehelpsu.png]]
+![Threat Landscape Helps U](threatlandscapehelpsu.png)
 
-![[threatbasedonevidence.png]]
+![Threat Based On Evidence](./assets/threatbasedonevidence.png)
 
 ## Open Source Threat Intel
 
@@ -107,7 +107,7 @@ But you want to make sure that these issues and risks are being elevated to exec
 
 (SCRM) is a discipline that addresses the threats and vulnerabilities of commercially acquired information and communications technologies - MITRE
 
-![[ICT-Supply-Chain-Risk-Source-NIST-Special-Publication-800-161-Supply-Chain-Risk.png]]
+![NIST 800 161](./assets/ICT-Supply-Chain-Risk-Source-NIST-Special-Publication-800-161-Supply-Chain-Risk.png)
 
 ## Insider Threats
 

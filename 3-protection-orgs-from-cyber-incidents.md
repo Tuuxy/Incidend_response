@@ -13,15 +13,15 @@ Secure & Hash configurations, have backups and baseline images and  store hashes
 
 ## Risk Based Approach to Vulnerability Management
 
-![[riskbasedapproach.png]]
+![Risk Based Approach](./assets/riskbasedapproach.png)
 
 ## Drilling Down on Vulnerability Management
 
-![[vulnman.png]]
+![Drilling Down on Vulnerability Management](./assets/vulnman.png)
 
 ## IR Teams Need Real-Time Data on Vulnerabilities in the Environment
 
-![[realtimedata.png]]
+![Realtime Data](./assets/realtimedata.png)
 
 ## High Value Assets (HVA)
 
@@ -47,7 +47,7 @@ https://www.cisecurity.org/controls/
 
 ## NIST Cybersecurity Framework (CSF) 
 
-![[riskassessment.png]]
+![Risk Assessment](./assets/riskassessment.png)
 
 - Designed to be customized
 - Risk based catalog of cybersecurity
@@ -96,7 +96,7 @@ https://www.cisecurity.org/controls/
 
 ## CSF Tiers - Self Assessment
 
-![[csftiers.png]]
+![CSF Tiers](./assets/csftiers.png)
 
 ## NIST 800-53 Security & Privacy Controls
 
@@ -135,10 +135,10 @@ Service Level Agreements can be powerful a tool to use between organizations or 
 
 ## The SASE Identity-Centric Architecture
 
-![[SASE.webp]]
+![SASE](./assets/SASE.webp)
 
 ## Microsoft Cloud App Security
 
-![[CASBmicrosoft.png]]
+![CASB Microsoft](./assets/CASBmicrosoft.png)
 
 

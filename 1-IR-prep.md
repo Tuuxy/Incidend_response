@@ -212,7 +212,7 @@ Responsible - Accountable - Consulted - Informed
 
 Who is responsible ? Who is accountable ? Who is consulted ? Who is informed ? 
 
-![[RACI.png]]
+![RACI](./assets/RACI.png)
 
 ## Security Operations Center (SOC) and IR 
 
@@ -226,9 +226,9 @@ Who is responsible ? Who is accountable ? Who is consulted ? Who is informed ?
 
 ## Examples CIRT organizations charts
 
-![[positionschart.png]]
+![Position Chart](./assets/positionschart.png)
 
-![[otherposchart.png]]
+![[otherposchart.png]]![Other Position Chart](./assets/otherposch)
 
 ### Business Decision
 

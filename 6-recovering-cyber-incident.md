@@ -67,13 +67,13 @@
 
 ## Consider the CSF to communicate
 
-![[CSF.png]]
+![CSF](./assets/CSF.png)
 
 ## Plan of Action & Milestones (POA&M)
 
 POA&Ms are used to identify, assess, prioritize and minotor corrective efforts for security weaknesses, deficiencies, and/or vulnerabilities found
 
-![[poam.png]]
+![POAM](./assets/poam.png)
 
 ## Course Summary
 
