@@ -6,7 +6,7 @@ How much risk are we willing to take ?
 What is the risk vs benefits tradeoff that we are looking at ? 
 What is the appetite of risk within the organization ? 
 
-![[How much risk](./assets/howmuchrisk.png)
+![How much risk](./assets/howmuchrisk.png)
 
 ### Enterprise Risk Management (ERM) 
 
